@@ -1,0 +1,25 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(75, 201, 255);
+}
+
+.titulo{
+    font-size: 3em;
+    color: black;
+    background-color: rgb(75, 201, 255);
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.subtitulo{
+    font-size: 2em;
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.imagem{
+    width: 5%;
+} 
