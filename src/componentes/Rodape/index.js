@@ -6,9 +6,8 @@ export default function Rodape() {
     <div className={styles.footer}>
       <footer>
         <p className={styles.copy}>@All Copyright Reserved - IFRN SGA 2023</p>
-        <img className={styles.imagem}src={props.facebook}/>
-        <img className={styles.imagem} src={props.twitter}/>
-        <img className={styles.imagem} src={props.instagram}/>
+        
+        <img className={styles.imagem} src={props.twitter} alt="Twitter Logo" />
       </footer>
     </div>
   )
