@@ -10,9 +10,6 @@ function App() {
   return (
     <>
    <Cabecalho logo="logo192.png" titulo='Favoritos' subtitulo="O melhor gerenciador já criado na internet!!"/>
-   <Rodape imagem="facebook.png"></Rodape>
-   <Rodape imagem="twitter.png"></Rodape>
-   <Rodape imagem="instagram.png"></Rodape>
    <Conteudo/>
    <Rodape/>
    </>
