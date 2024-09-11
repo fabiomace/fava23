@@ -9,7 +9,7 @@ function App() {
   OlaMundo();
   return (
     <>
-   <Cabecalho logo="logo192.png" titulo='Favoritos' subtitulo="O melhor gerenciador já criado na internet!!"/>
+   <Cabecalho logo="logo192.png" titulo='Biografia' subtitulo="Uma biografia breve. Por: Lucas Fábio"/>
    <Conteudo/>
    <Rodape/>
    </>
