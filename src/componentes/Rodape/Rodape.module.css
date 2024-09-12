@@ -1,14 +1,14 @@
 .copy {
     margin: 1em;
-    background-color: rgb(75, 201, 255);
+    background-color: #ffd000;
     border: 5em;
     text-align: center;
 }
 
 .footer {
-    background-color: rgb(75, 201, 255);
+    background-color: #ffd000;
     margin: 0;
-    border: solid rgb(75, 201, 255) 10px;
+    border: solid #ffd000;
     font-size: 1.5rem;
 }
 
