@@ -1,7 +1,5 @@
 .copy {
-    margin: 1em;
     background-color: #ffd000;
-    border: 5em;
     text-align: center;
 }
 
@@ -9,9 +7,4 @@
     background-color: #ffd000;
     margin: 0;
     border: solid #ffd000;
-    font-size: 1.5rem;
 }
-
-.imagem{
-    width: 5%;
-} 
