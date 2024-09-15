@@ -5,17 +5,19 @@
 }
 
 .titulo{
+    display: flex;
     font-size: 3em;
     color: black;
     background-color: #ffd000;
-    text-align: left;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: italic;
 }
 
 .subtitulo{
+    display: flex;
     font-size: 2em;
     text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: italic;
-    font-family: Georgia, 'Times New Roman', Times, serif;
 }
