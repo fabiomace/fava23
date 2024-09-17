@@ -1,14 +1,14 @@
 .cabecalho{
     display: flex;
     justify-content: space-around;
-    background-color: #ffd000;
+    background-color: #57C5B6;
 }
 
 .titulo{
     display: flex;
     font-size: 3em;
     color: black;
-    background-color: #ffd000;
+    background-color: #57C5B6;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: italic;
