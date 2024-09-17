@@ -1,10 +1,12 @@
 .copy {
-    background-color: #57C5B6;
+    background-color: #1A5F7A;
     text-align: center;
+    font-weight: bold;
+    color: white;
 }
 
 .footer {
-    background-color: #57C5B6;
+    background-color: #1A5F7A;
     margin: 0;
-    border: solid #57C5B6;
+    border: solid #1A5F7A;
 }
