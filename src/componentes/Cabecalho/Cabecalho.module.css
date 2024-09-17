@@ -1,9 +1,11 @@
 .cabecalho{
+    display: flex;
     justify-content: space-around;
     background-color: #57C5B6;
 }
 
 .titulo{
+    display: flex;
     font-size: 3em;
     color: black;
     background-color: #57C5B6;
@@ -13,6 +15,7 @@
 }
 
 .subtitulo{
+    display: flex;
     font-size: 3em;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
