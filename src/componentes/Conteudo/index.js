@@ -5,7 +5,7 @@ import styles from './Conteudo.module.css'
         return (
             <div>
                 <section className={styles.section}>
-                    Conteudo
+                    Conteúdo
                 </section>
             </div>
         )
